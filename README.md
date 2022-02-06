@@ -1,5 +1,5 @@
 # hola-mundo
-Mi primer repositorio de prueba
+Mi primer repositorio.
 
-Autor: Ruben Ramirez Hernadez
+Autor: Ruben R.
 Fecha: 5 de Febrero
